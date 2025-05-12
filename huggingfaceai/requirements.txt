@@ -1,0 +1,8 @@
+gradio
+requests
+smolagents
+duckduckgo-search
+transformers
+wikipedia-api
+beautifulsoup4
+pandas
